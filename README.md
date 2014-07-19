@@ -7,3 +7,4 @@
 * WebSocket
 * Facebook Login
 * Mobile version
+@This is very stupid chat
